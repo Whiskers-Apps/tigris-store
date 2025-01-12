@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Whiskers Color Scheme",
+    "repository": "https://github.com/Whiskers-Color-Scheme/tigris/",
+    "files": [
+      {
+        "name": "Panther Banana",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-banana.json"
+      },
+      {
+        "name": "Panther Blueberry",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-blueberry.json"
+      },
+      {
+        "name": "Panther Cherry",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-cherry.json"
+      },
+      {
+        "name": "Panther Grape",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-grape.json"
+      },
+      {
+        "name": "Panther Kiwi",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-kiwi.json"
+      },
+      {
+        "name": "Panther Tangerine",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/panther-tangerine.json"
+      },
+      {
+        "name": "Tiger Banana",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-banana.json"
+      },
+      {
+        "name": "Tiger Blueberry",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-blueberry.json"
+      },
+      {
+        "name": "Tiger Cherry",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-cherry.json"
+      },
+      {
+        "name": "Tiger Grape",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-grape.json"
+      },
+      {
+        "name": "Tiger Kiwi",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-kiwi.json"
+      },
+      {
+        "name": "Tiger Tangerine",
+        "link": "https://raw.githubusercontent.com/Whiskers-Color-Scheme/tigris/refs/heads/master/themes/tiger-tangerine.json"
+      }
+    ]
+  }
+]

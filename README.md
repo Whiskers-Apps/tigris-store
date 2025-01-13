@@ -1,2 +1,2 @@
-# tigris-store
-A store for  tigris extensions and themes
+# Tigris Store
+In here you can find the [themes](https://github.com/Whiskers-Apps/tigris-store/blob/master/store/themes.json) and [extensions](https://github.com/Whiskers-Apps/tigris-store/blob/master/store/extensions.json) for tigris

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "session-manager",
+    "name": "Session Manager",
+    "description": "An extension for tigris that gives the options to lock, logout, shutdown, reboot, suspend and hibernate",
+    "repository": "https://github.com/Whiskers-Apps/tigris-session-manager",
+    "author": "Whiskers Apps"
+  },
+  {
+    "id": "bookmarks",
+    "name": "Bookmarks",
+    "description": "An extension for tigris to manage web bookmarks",
+    "repository": "https://github.com/Whiskers-Apps/tigris-bookmarks",
+    "author": "Whiskers Apps"
+  },
+  {
+    "id": "clipper",
+    "name": "Clipper",
+    "description": "An extension for tigris to copy text and images",
+    "repository": "https://github.com/Whiskers-Apps/tigris-clipper",
+    "author": "Whiskers Apps"
+  },
+  {
+    "id": "whiskers-palette",
+    "name": "Whiskers Palette",
+    "description": "An extension for tigris for getting the Whiskers Color Scheme values",
+    "repository": "https://github.com/Whiskers-Apps/tigris-whiskers",
+    "author": "Whiskers Apps"
+  },
+  {
+    "id": "emoji-picker",
+    "name": "Emoji Picker",
+    "description": "An extension for tigris to pick emojis",
+    "repository": "https://github.com/Whiskers-Apps/tigris-emoji",
+    "author": "Whiskers Apps"
+  }
+]

@@ -1,5 +1,12 @@
 [
   {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "description": "An extension for tigris to prevent lock screen and suspend",
+    "repository": "https://github.com/lighttigerXIV/tigris-caffeine",
+    "author": "lighttigerXIV"
+  },
+  {
     "id": "session-manager",
     "name": "Session Manager",
     "description": "An extension for tigris that gives the options to lock, logout, shutdown, reboot, suspend and hibernate",

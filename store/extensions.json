@@ -28,13 +28,6 @@
     "author": "Whiskers Apps"
   },
   {
-    "id": "whiskers-palette",
-    "name": "Whiskers Palette",
-    "description": "An extension for tigris for getting the Whiskers Color Scheme values",
-    "repository": "https://github.com/Whiskers-Apps/tigris-whiskers",
-    "author": "Whiskers Apps"
-  },
-  {
     "id": "emoji-picker",
     "name": "Emoji Picker",
     "description": "An extension for tigris to pick emojis",
